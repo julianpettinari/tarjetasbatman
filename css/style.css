@@ -128,7 +128,7 @@ h3.harley{
     color: #333333;
     font-weight:400;
     margin:10px 17px 37px 16px;
-    
+
 }
 .boton{
 
@@ -145,10 +145,30 @@ h3.harley{
     /* margin: 37px 86.22px 18.48px 85px; */
 
 }
+
+/*/////PRUEBA ETIQUETA BUTTON////////*/
+button{
+
+    position:relative;
+    background-color: #00669F;
+    color:#F3F3F3;
+    width: 128.78px;
+    line-height: 48.52px;
+    /* left: 85px;
+    right: 85px; */
+    bottom: 18.48px;
+    font-size: 15px;
+    text-align:center ;
+    border-width: 0px;
+    cursor:pointer;
+
+}
+
+
 /*////////FIN CONTENIDO//////////*/
 
 footer{
-    
+
     background-color: #00669F;
     color: #FFF9F9;
     font-weight: 400;
